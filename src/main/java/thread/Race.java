@@ -2,6 +2,8 @@ package thread;
 
 /**
  * 模拟龟兔赛跑
+ *
+ * @author wcl
  */
 public class Race implements Runnable {
 

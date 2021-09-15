@@ -8,6 +8,8 @@ import java.net.URL;
 import java.util.concurrent.ScheduledThreadPoolExecutor;
 
 /**
+ * 多线程下载文件
+ *
  * @author wcl
  */
 public class TestThread2 implements Runnable {

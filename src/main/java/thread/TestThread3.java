@@ -2,6 +2,7 @@ package thread;
 
 /**
  * 抢票
+ * @author wcl
  */
 public class TestThread3 implements Runnable {
 
